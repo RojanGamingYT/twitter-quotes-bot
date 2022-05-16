@@ -1,1 +1,1 @@
-worker: python3 quote.py
+worker: python3 tweet_quote.py
