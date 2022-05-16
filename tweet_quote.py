@@ -133,10 +133,10 @@ class TwitterBot:
 			self.request_user_input()
 
 # Credentials to access Twitter account
-api_key = ""
-api_key_secret = ""
-access_token = ""
-access_token_secret = ""
+api_key = "zP4lY5B7PhY2Jfvs9aQnobozK"
+api_key_secret = "xjDJqqutI7sBG7rQtcURtMKv3Yz05tWcIcbTUAlv25i3JhiYat"
+access_token = "871362953353715712-gEBGmD30nwCxIoKjPrxHw7B6ST8oNJa"
+access_token_secret = "gG4Oh9b3rIInZwiEarS56rraSfGWm3sn5StKUjg4vcqou"
 
 my_twitter_bot = TwitterBot(api_key, api_key_secret, access_token, access_token_secret)	
 my_twitter_bot.request_user_input()	
