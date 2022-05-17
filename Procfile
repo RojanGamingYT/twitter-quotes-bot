@@ -1,1 +1,1 @@
-worker: python3 tweet_quote.py
+worker: node bot.js
