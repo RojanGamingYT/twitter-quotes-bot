@@ -43,3 +43,4 @@ node bot.js
 ### Celebrate
 
 Expect a success message in your console! 
+Enjoy the bot !
